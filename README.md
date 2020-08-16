@@ -26,7 +26,7 @@ what it can do?
   # Watch the video introducing the team members :
   - https://as9.cdn.asset.aparat.com/aparat-video/5e20452093d8effc796fe480249eebc123968594-720p.mp4
   
-  
+  [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://as9.cdn.asset.aparat.com/aparat-video/5e20452093d8effc796fe480249eebc123968594-720p.mp4)
  
   
   
