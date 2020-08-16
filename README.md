@@ -6,8 +6,8 @@ what it can do?
   - Sending text messages and emoji to freiends.
   - Sending media and files to freinds. 
   - You can upload files in server (some thing like Saved Messages 😊 ).
-  - Paly with friends and enjoy.
-  - Sending ads to clients with pychat account like google ads.
+  - Play with friends and enjoy.
+  - Sending ads to clients with (pychat) account like google ads.
   - Attractive and Animated user interface.
   - Yahoo account authentication.
   - prevent malicious bot with ReCapcha.
