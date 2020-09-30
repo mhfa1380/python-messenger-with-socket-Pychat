@@ -1,7 +1,7 @@
 # PyChat Messenger (Python Socket Programming) 
 
 
-what it can do?
+The following features make it fabulous:-
 
   - Sending text messages and emoji to friends.
   - Sending media and files to friends. 
@@ -35,7 +35,7 @@ what it can do?
   
   
   
-  # Any questions ?
+  # Any questions ❓
   - You can ask here if you have any problem in Setting up Or running program.
   
   
